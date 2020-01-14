@@ -15,6 +15,14 @@ This repository is mainly used for learning purposes, as well as future purposes
 * pygame
 * TensorFlow
 
+## Control Keys
+                    
+The control keys used are the following:
+
+* Player Movement: 
+	* <tt>UP</tt>, <tt>LEFT</tt>, <tt>DOWN</tt>, <tt>RIGHT</tt>
+	* <tt>W</tt>, <tt>A</tt>, <tt>S</tt>, <tt>D</tt>
+  
 ## Implementations for the Future
 
 * Use recurrent neural networks (RNNs) to decide when to move.
