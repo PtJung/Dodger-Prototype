@@ -9,7 +9,7 @@
 
 Prototype A.I. which dodges the player's bullets in an interactive environment. Currently, this is accomplished with a feedforward neural network which uses mathematics to determine the dangers of the surrounding environment and thus, does not completely rely on the player's input to make decisions. What this A.I. is most capable of doing is knowing which area the player shoots projectiles at, so it tends to find a safer area to go to.
 
-This repository is mainly used for learning purposes, as well as future purposes, in which I further develop this prototype to work correctly.
+This repository is mainly used for learning purposes, as well as future purposes, in which I further develop this prototype to work more properly in which the A.I. thinks purely on its own through a proper neural network.
 
 **Python Libraries:**
 * pygame
