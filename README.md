@@ -13,6 +13,7 @@ This repository is mainly used for learning purposes, as well as future purposes
 
 **Python Libraries:**
 * pygame
+* numpy
 * TensorFlow
 
 ## Control Keys
